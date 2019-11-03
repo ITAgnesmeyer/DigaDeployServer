@@ -19,7 +19,7 @@
     "consumes": [
         "application\/json"
     ],
-    "host": "example.com",
+    "host": "intellicon.plentymarkets-cloud01.com",
     "basePath": "\/",
     "tags": [
         {
